@@ -42,6 +42,7 @@ Figma
 **Description:**  
 This prototype was created as a wireframe project for the Introduction to Web Development course.
 It demonstrates the UX/UI design for a multi-brand doll e-commerce platform, including product browsing, cart functionality, and an admin management page.
+
 **Tools:**  
 Figma
 
